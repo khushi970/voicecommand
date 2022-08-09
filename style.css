@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+	
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border: 5px solid pink;
+    border-radius: 20px;
+
+	box-shadow: 5px 5px 5px blue ;
+}
